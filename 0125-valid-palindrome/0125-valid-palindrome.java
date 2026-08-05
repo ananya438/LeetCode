@@ -4,6 +4,7 @@ class Solution {
         int r = s.length()-1;
 
         while(l<r){
+            
             while (l<r && !Character.isLetterOrDigit(s.charAt(l))) {
                 l++;
             }
