@@ -14,5 +14,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/ananya438/LeetCode/tree/master/0055-jump-game) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ananya438/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/ananya438/LeetCode/tree/master/0055-jump-game) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/ananya438/LeetCode/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
